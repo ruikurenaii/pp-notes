@@ -17,12 +17,16 @@ Now with PP!Notes, this plugin will attempt to renew the performance points syst
 This is one question that takes me a very long time to think about. Here are some following concepts and processes in calculating:
 
 !. Variables and constants are prepared for calculation.
+
 2. The following performance components are calculated:
   - Content: The notes, folders and other files inside the vault.
   - Accuracy: Words should be related and understandable.
   - Strain: The unique and complex words calculated in the vault.
   - Age: The age of the vault, which includes the time it was created.
+
+
 3. Once they're all calculated, raw values will be outputted onto the console, and balancing is done to prevent outputting unusual values as results.
+
 4. After the balancing, the value is outputted inside a modal used to display the contents.
 
 # Suggestions?
