@@ -3,9 +3,9 @@
 	"name": "Sample Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "The unreleased sequel of Performium, but with better functionality!",
+	"author": "Sebastian Kurenai",
+	"authorUrl": "https://sebbikuren.qzz.io",
+	"fundingUrl": "https://ko-fi.com/paytouse1774",
 	"isDesktopOnly": false
 }

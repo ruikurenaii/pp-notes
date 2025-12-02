@@ -16,7 +16,7 @@ Now with PP!Notes, this plugin will attempt to renew the performance points syst
 # How would it be calculated?
 This is one question that takes me a very long time to think about. Here are some following concepts and processes in calculating:
 
-!. Variables and constants are prepared for calculation.
+1. Variables and constants are prepared for calculation.
 
 2. The following performance components are calculated:
   - Content: The notes, folders and other files inside the vault.
